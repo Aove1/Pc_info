@@ -1,6 +1,13 @@
 # Pcinfo
 
 
+### Packages
+* PUtil
+* psutil
+* tabulate
+* psutil._common
+* cpuinfo
+
 ## About The Project
  1. System Information
  2. GPU Information
