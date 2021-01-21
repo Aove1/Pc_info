@@ -11,4 +11,4 @@
  * 
  * 
 
-![](https://raw.githubusercontent.com/awfi1993/Auto_Clicker/master/image.png)
+![](https://github.com/Aove1/Pc_info/blob/main/image.png)
